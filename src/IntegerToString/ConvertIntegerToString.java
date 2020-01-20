@@ -8,6 +8,5 @@ public class ConvertIntegerToString {
         System.out.println("Please enter only integer ( Don't enter Character or String ) :    ");
         int n = sc.nextInt();
         String s = String.valueOf(n);
-
         }
     }
